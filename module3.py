@@ -45,4 +45,3 @@ print(f"Number of sessions completed: {completed_sessions}")
 print(f"Number of sessions skipped: {skipped_sessions}")
 print(f"Total focused time: {focus_time} min")
 print(f"Total break time: {break_time} min")
-
